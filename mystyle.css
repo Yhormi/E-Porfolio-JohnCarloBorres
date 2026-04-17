@@ -57,6 +57,7 @@ nav ul li a.active {
 section {
     padding: 100px 5% 80px;
     max-width: 600px;
+    max-height: 600px;
     margin: 0 auto;
     opacity: 0;
     transform: translateY(30px);
