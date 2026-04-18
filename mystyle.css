@@ -178,7 +178,7 @@ section h2 {
 }
 
 #skill h3 {
-    color: white;
+    color: linear-gradient(90deg, #3e2f1c 0%, #bfa06a 50%, #d8c590 100%);
     margin-bottom: 1rem;
     font-size: 1.5rem;
 }
