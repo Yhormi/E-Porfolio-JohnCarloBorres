@@ -14,18 +14,18 @@
 
 ### Icon-Only Contacts - Clean Cisco & Facebook social links
 
-📚 Sections
+## 📚 Sections
 
-Home - Welcome message & IT student intro
+### Home - Welcome message & IT student intro
 
-About Me - Profile picture & ICT background
+### About Me - Profile picture & ICT background
 
-Education - San Isidro College, Halapitan NHS, Elementary
+### Education - San Isidro College, Halapitan NHS, Elementary
 
-Skills - Programming, Video Editing, Troubleshooting
+### Skills - Programming, Video Editing, Troubleshooting
 
-Hobbies - COD Mobile & Spotify
+### Hobbies - COD Mobile & Spotify
 
-Portfolio Images - Graduation, certificates, projects
+### Portfolio Images - Graduation, certificates, projects
 
-Contacts - Cisco NetAcad & Facebook
+### Contacts - Cisco NetAcad & Facebook
